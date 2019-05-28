@@ -1,0 +1,5 @@
+D:\Code\Ding\DingPush\DingPush\bin\Release\DingPush.dll
+D:\Code\Ding\DingPush\DingPush\bin\Release\DingPush.pdb
+D:\Code\Ding\DingPush\DingPush\bin\Release\Newtonsoft.Json.dll
+D:\Code\Ding\DingPush\DingPush\obj\Release\DingPush.dll
+D:\Code\Ding\DingPush\DingPush\obj\Release\DingPush.pdb

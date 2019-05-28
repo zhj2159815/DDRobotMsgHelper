@@ -1,0 +1,9 @@
+D:\Code\Ding\DingPush\TestApp\bin\Release\TestApp.exe.config
+D:\Code\Ding\DingPush\TestApp\bin\Release\TestApp.exe
+D:\Code\Ding\DingPush\TestApp\bin\Release\TestApp.pdb
+D:\Code\Ding\DingPush\TestApp\bin\Release\DingPush.dll
+D:\Code\Ding\DingPush\TestApp\bin\Release\Newtonsoft.Json.dll
+D:\Code\Ding\DingPush\TestApp\bin\Release\DingPush.pdb
+D:\Code\Ding\DingPush\TestApp\obj\Release\TestApp.csprojResolveAssemblyReference.cache
+D:\Code\Ding\DingPush\TestApp\obj\Release\TestApp.exe
+D:\Code\Ding\DingPush\TestApp\obj\Release\TestApp.pdb

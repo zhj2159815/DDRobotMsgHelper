@@ -7,3 +7,6 @@ D:\Code\Ding\DingPush\TestApp\bin\Debug\DingPush.pdb
 D:\Code\Ding\DingPush\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
 D:\Code\Ding\DingPush\TestApp\obj\Debug\TestApp.exe
 D:\Code\Ding\DingPush\TestApp\obj\Debug\TestApp.pdb
+D:\Code\Ding\DDRobotMsgHelper\DingPush\TestApp\bin\Debug\TestApp.exe.config
+D:\Code\Ding\DDRobotMsgHelper\DingPush\TestApp\obj\Debug\TestApp.exe
+D:\Code\Ding\DDRobotMsgHelper\DingPush\TestApp\obj\Debug\TestApp.pdb
