@@ -33,14 +33,12 @@ namespace DingPush
         }
 
         /// <summary>
-        /// link类型消息，At无效
+        /// link类型消息
         /// </summary>
         /// <param name="title">消息标题</param>
         /// <param name="text">消息内容。如果太长只会部分展示</param>
         /// <param name="picUrl">图片URL</param>
         /// <param name="url">点击消息跳转的URL</param>
-        /// <param name="atMobiles">被@人的手机号(在text内容里要有@手机号)</param>
-        /// <param name="isAllAt">@所有人时：true，否则为：false</param>
         /// <returns>消息对象obj</returns>
         public static object BuildLinkMsg(string title, string text, string picUrl, string url)
         {
