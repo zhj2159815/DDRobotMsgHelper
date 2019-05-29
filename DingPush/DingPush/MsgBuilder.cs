@@ -7,6 +7,11 @@ namespace DingPush
     /// </summary>
     public class MsgBuilder
     {
+        public static string BuildContent(MsgContent content)
+        {
+            return string.Format("标题：{0}- {1} - IP: {2} \n 消息：{3} \n 时间：{4}", content.platform, content.title, content.ip, content.text, content.title);
+        }
+
         /// <summary>
         /// 包含At的消息
         /// </summary>

@@ -49,6 +49,7 @@
     <Compile Include="DDResponse.cs" />
     <Compile Include="HttpHelper.cs" />
     <Compile Include="MsgBuilder.cs" />
+    <Compile Include="MsgContent.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
