@@ -15,14 +15,19 @@ namespace TestApp
 
         static void Main(string[] args)
         {
-            TestSendTxt();
+            for (int i = 0; i < 30; i++)
+            {
+                TestSendTxt(i);
+            }
+
             Console.ReadKey();
         }
 
         //测试发送Text文本消息
-        public static void TestSendTxt()
+        public static void TestSendTxt(int i)
         {
-            DDResponse result = DDRobotHelper.SendMsg(token, MsgBuilder.BuildTxtMsgAt("锄禾日当午"));
+            var msg = "锄禾日当午" + i;
+            DDResponse result = DDRobotHelper.SendMsg(token, MsgBuilder.BuildTxtMsgAt(msg));
             Console.WriteLine("Text:{0}", result.errmsg);
         }
 
